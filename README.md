@@ -1,18 +1,20 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Magic 8 Ball App
+This is a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
 
-# Magic 8 Ball
+## Screenshot
 
-## Our Goal
-
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
-
-## What you will create
-
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+<img src="https://github.com/kri-eng/Magic-8-Ball-App/assets/124129235/9c07f60e-9edc-4b68-9594-d45b08102277" alt="First-App-Screenshot" width=300>
 
 
+<img src="https://github.com/kri-eng/Magic-8-Ball-App/assets/124129235/28b5d721-8d38-4be2-9f32-049a9d3d9beb" alt="First-App-Screenshot" width=300>
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+<img src="https://github.com/kri-eng/Magic-8-Ball-App/assets/124129235/e301c0c5-9a40-459d-b81e-7a91b8602847" alt="First-App-Screenshot" width=300>
 
+## User Interface
+
+The user Interface contains multiple elements including label, images and a button.
+
+## Functionality
+
+The application has a button - Ask which is capable of changing the images of the magic ball. Each magic ball is an image and each of them contain a message, when asked it provided with a random answer. Wheather it can be a YES, NO IDEA, or ASK Again Later. The application's View Controller file contains an IBAction outlet which has the capability of presenting a random image.
